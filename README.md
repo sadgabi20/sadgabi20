@@ -6,7 +6,7 @@ I love to create stuff!
 
 Specialized in frontend development, mainly UX/UI design, but I'm also curious about different technologies.
 
-Currently, I'm working on **[Chocola](https://github.com/chocolajs/chocola)**, a full-stack web framework aimed at using 100% native web syntax, being beginner-friendly, and having minimal bloatcode and boilerplate.
+Currently, I'm working on **[Chocola](https://github.com/chocolajs)**, a full-stack web framework that uses 100% native web syntax, is beginner-friendly, and has minimal bloat and boilerplate.
 
 Also working on an R&D project called **[SweSS](https://github.com/sadgabi20/swess)**, a CSS superset using a human-like DSL.
 
